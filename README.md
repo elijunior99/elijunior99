@@ -1,5 +1,6 @@
 - 👨🏽‍💻 Hoje estou trabalhando com Suporte Técnico
-- 📙 Estudando programação em Python
+- 👨🏽‍🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIP
+- 📙 Estudando programação em Python com a Hashtag Treinamentos
 - ✉️ Contate-me no email: juusoares99@gmail.com
 - 🙋🏽‍♂️ Pronome: ele/dele
 <!--
