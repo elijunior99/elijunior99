@@ -1,9 +1,9 @@
 ## EliJunior.DEV
 
-- 👨🏽‍💻 Trabalhando atualmente de Analista Suporte Técnico Pleno
-- 👨🏽‍🎓 Estudando programação em Python com a Hashtag Treinamentos
+- 👨🏽‍💻 Cursando Análise e Desenvolvimento de Sistemas no Instituto Monitor.
+- 👨🏽‍🎓 Estudante de desenvolvimento de aplicações Web, com React JS, Node e Python.
 - ✉️ Contate-me no email: juusoares99@gmail.com
-- 🙋🏽‍♂️ Pronome: ele/dele
+
 
 
 ## 🌐 Socials:
